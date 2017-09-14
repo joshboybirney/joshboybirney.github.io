@@ -1,12 +1,13 @@
 # joshboybirney.github.io                     
 
-<!DOCTYPE html>
+<!DOCTYPE html>/profi
 <html>
 <head>
 <title>Page Title</title>
 </head>
-
-
+                                                                                      </p>img src=https://www.google.ie/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwijg8-qrqTWAhUDDcAKHZ-EAzIQjRwIBw&url=https%3A%2F%2Ftwitter.com%2Frushafc&psig=AFQjCNGlWezUaCdU9eA1gQUGEku7HOwupw&ust=1505467692383750
+   
+ 
 
 
 <body>
@@ -18,15 +19,15 @@
 <p>  rafa-4<p/>
 <p>  colin-2<p/>
 <p>  aaron-2<p/>
-   
-   
-   
-   <h1> TOP CUP SCORES </p>
-  <p> josh-1.</p>
-<img src= "https://pbs.twimg.com/profile_images/3722346960/f4da4007e2a7b5fcf7e69d55e1f6b129_400x400.jpeg">
-
 </body>
 </html>
+
+
+<
+   <h1> TOP CUP SCORES </p>
+  <p> josh-1.
+  
+ 
 
 
 
