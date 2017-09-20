@@ -17,7 +17,7 @@
 
 
 
-  <h1> TOP CUP SCORES </h1>
+  <h1> TOP CUP SCORERS </h1>
   <p> josh-1. </p>
   
   
