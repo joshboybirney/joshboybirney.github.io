@@ -15,12 +15,12 @@
 
 
 
-   <h1> TOP CUP SCORES </p>
+   <h1> TOP CUP SCORES </h1>
   <p> josh-1. </p>
   
   
   
- <h1> RECENT RESULTS </p>
+ <h1> RECENT RESULTS </h1>
  
  <p> swords 2-2  </p>
   
