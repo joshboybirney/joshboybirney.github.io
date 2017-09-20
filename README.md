@@ -10,15 +10,14 @@
 <h1>top league goal scores </h1>
 <p> fionn-7</p>
 <p>  mamadou-7</p>
-<p>  rafa-4<p/>
-<p>  colin-2<p/>
-<p>  aaron-2<p/>
-</body>
-</html>
+<p>  rafa-4</p>
+<p>  colin-2</p>
+<p>  aaron-2</p>
 
 
 
-   <h1> TOP CUP SCORES </h1>
+
+  <h1> TOP CUP SCORES </h1>
   <p> josh-1. </p>
   
   
