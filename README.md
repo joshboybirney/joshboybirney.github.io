@@ -22,7 +22,7 @@
   
  <h1> RECENT RESULTS </p>
  
- <p> swords 2 rush 2 </p>
+ <p> swords 2-2  </p>
   
  
 
