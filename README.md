@@ -26,8 +26,7 @@
  
  <p> swords 2-2 rush </p>
  <P> Rush 2-5 Artane </p>
- 
-h2 {
+ body {
    color: rgb(255, 0, 0);
 }
 
