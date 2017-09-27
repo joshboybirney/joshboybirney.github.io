@@ -8,8 +8,8 @@
 
 
 <h1>top league goal scores </h1>
-<p> fionn-7</p>
-<p>  mamadou-7</p>
+<p> fionn-8</p>
+<p>  mamadou-8</p>
 <p>  rafa-4</p>
 <p>  colin-2</p>
 <p>  aaron-2</p>
@@ -25,7 +25,7 @@
  <h1> RECENT RESULTS </h1>
  
  <p> swords 2-2 rush </p>
-  
+ <P> Rush 2-5 Artane </p>
  
 
 
