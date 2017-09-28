@@ -27,9 +27,24 @@
  <p> swords 2-2 rush </p>
  <P> Rush 2-5 Artane </p>
  body {
-   color: rgb(255, 0, 0);
-}
+   color: rgb(255, 0, 0);}
 
+
+
+
+ <h1> TEAM SHHET </h1>
+ <p> goalkeeper= Sean o Dea </p>
+ <p> right back = Ciaran mcguinness </p>
+ <p> left back = podge White </p>
+ <p> centre back = sam olidemeji </p>
+ <p> centre back = louie greille </p>
+ <p> right mid = fionn tynon </p>
+ <p> left mid = rafa sroka </p>
+ <p> centre mid = aaron carrick </p>
+ <p> centre mid = colin dennehy</p>
+ <p> striker =mamadou </p>
+ <p> striker = Josh Birney </p>
+ 
 
 
 
